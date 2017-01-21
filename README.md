@@ -88,7 +88,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [深度学习用于自然语言处理](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)| Stanford |暂无 |[链接](http://cs224d.stanford.edu/syllabus.html)
 
 
-##<h3 id="special_learning">机器学习专项领域学习</h3>
+##<h3 id="special_learning">自然语言处理专项领域学习</h3>
    如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的自然语言处理基础了，已经是一名合格的自然语言处理的成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
 
 - [NLP学习平台](https://github.com/keonkim/awesome-nlp)
